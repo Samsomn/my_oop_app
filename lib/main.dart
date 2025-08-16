@@ -30,7 +30,7 @@ class MyHomePage extends StatelessWidget {
         child: Text(
           "HELLO, OOP!",
           style: TextStyle(
-            fontSize: 32,
+            fontSize: 24,
             fontWeight: FontWeight.bold,
             color: Colors.blue,
           ),
